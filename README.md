@@ -1,1 +1,2 @@
 # Numeric-Methods
+This is a repository that I have created that contains all of the algorithms that I have created for Mechanical Engineering 105. The algorithms include Simpson.m,luFactor.m, and falsePosition.m. The Simpson.m algorithm performs Simpson's 1/3 rule on given input matrix and outputs an intergral for the given data. luFactor.m performs pivoting and gauss elimination to produce a lower triangular matrix and an upper triangular matrix for the usar. The falsPosition.m algorithm uses the false position root finding method to calculate the root of a given input.
